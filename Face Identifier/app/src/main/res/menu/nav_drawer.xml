@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="@string/camerax">
+        <menu>
+            <item
+                android:id="@+id/camerax"
+                android:icon="@drawable/camera"
+                android:title="@string/cam_analyze" />
+        </menu>
+    </item>
+    <item android:title="@string/mlkit">
+        <menu>
+            <item
+                android:id="@+id/face_tracking"
+                android:icon="@drawable/face_icon"
+                android:title="@string/face_tracking" />
+            <item
+                android:id="@+id/realtime_face_detection"
+                android:icon="@drawable/face_icon"
+                android:title="@string/realtime_face_detection"
+                android:visible="false" />
+            <item
+                android:id="@+id/capture_face_detection"
+                android:icon="@drawable/face_icon"
+                android:title="@string/capture_face_detection"
+                android:visible="false" />
+
+        </menu>
+    </item>
+    <item android:title="@string/project_info">
+        <menu>
+            <item
+                android:id="@+id/realtime_object_detection"
+                android:icon="@drawable/object_icon"
+                android:title="@string/project_about" />
+        </menu>
+    </item>
+</menu>

@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Face Identifier</string>
+    <string name="camerax">CameraX</string>
+    <string name="cam_analyze">Percobaan CameraX</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="mlkit">Fitur Utama</string>
+    <string name="realtime_face_detection">Real Time Face Detection</string>
+    <string name="capture_face_detection">Capturing &amp; Face Detection</string>
+    <string name="face_tracking">Pindai Wajah</string>
+    <string name="project_info">Project Info</string>
+    <string name="project_about">Tentang</string>
+    <string name="project_about_desc">Pengembangan Aplikasi Face Detector Profile Mahasiswa (Studi Kasus : Universiatas Bina Darma)</string>
+    <string name="project_about_author_key">Author</string>
+    <string name="project_about_author_val">ANDY KURNIAWAN</string>
+    <string name="project_about_nim_key">NIM</string>
+    <string name="project_about_nim_val">17142006P</string>
+    <string name="project_about_fakultas_key">Fakultas</string>
+    <string name="project_about_fakultas_val">ILMU KOMPUTER</string>
+    <string name="project_about_prog_key">Program Studi</string>
+    <string name="project_about_prog_val">Teknik Informatika</string>
+    <string name="custom_model">Custom Model</string>
+    <string name="object_detection_local">Object Detection | Local</string>
+    <string name="image_classification_local">Image Classification | Local</string>
+    <string name="object_detection_local_video">Object Detection Video | Local</string>
+    <string name="start_scan">Mulai Pindai</string>
+    <string name="capture">CAPTURE</string>
+</resources>
